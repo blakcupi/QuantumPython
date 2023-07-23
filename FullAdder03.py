@@ -54,5 +54,5 @@ print(counts)
 print('\n')
 print('\n')
 
-circuit.draw("mpl")
+#circuit.draw("mpl")
 plot_histogram(counts)
